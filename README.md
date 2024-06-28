@@ -24,8 +24,6 @@ This project aims to analyze customer reviews of restaurants to determine the se
 - Performance evaluation using metrics such as accuracy, precision, recall, and F1-score
 - Visualization of data distribution and model performance
 
-    ```
-
 ## Dataset
 
 The dataset used for this project consists of restaurant reviews . Each review is labeled with a sentiment (positive or negative). You can use publicly available datasets or collect your own data.
