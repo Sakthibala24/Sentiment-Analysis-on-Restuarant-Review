@@ -1,1 +1,1 @@
-# Snetiment-Analysis-on-Restuarant-Review
+# Sentiment-Analysis-on-Restuarant-Review
