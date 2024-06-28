@@ -12,9 +12,7 @@ This project aims to analyze customer reviews of restaurants to determine the se
 - [Preprocessing](#preprocessing)
 - [Model Training](#model-training)
 - [Evaluation](#evaluation)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Features
